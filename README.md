@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analysing Netflix movies and shows, covering
 IMDb ratings, votes, runtime and release trends.
 
-![Netflix Insights Dashboard](images/dashboard.png)
+![Netflix Insights Dashboard](image/dashboard.png)
 
 ## Objective
 Understand how Netflix content has changed over time and which factors, such as
